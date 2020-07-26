@@ -33,12 +33,9 @@ public class Swagger2Config {
 
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("swagger-api文档")
-                .description("swagger接入教程")
-                //服务条款网址
-                .termsOfServiceUrl("https://blog.csdn.net/ysk_xh_521")
+                .title("swagger-api")
+                .description("swagger接入")
                 .version("1.0")
-                .contact(new Contact("Y.S.K", "http://ysk521.cn", "1176971130@qq.com"))
                 .build();
     }
 
