@@ -1,6 +1,3 @@
-/*
- * Copyright (C) 1999-2018 IFLYTEK Inc.All Rights Reserved.
- */
 package com.lzcy.baseframework.config;
 
 import com.alibaba.druid.pool.DruidDataSource;
